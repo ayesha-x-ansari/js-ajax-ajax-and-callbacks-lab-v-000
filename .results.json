@@ -5,9 +5,9 @@
     "passes": 0,
     "pending": 0,
     "failures": 1,
-    "start": "2018-09-12T03:12:47.724Z",
-    "end": "2018-09-12T03:12:47.732Z",
-    "duration": 8
+    "start": "2018-09-12T03:13:22.097Z",
+    "end": "2018-09-12T03:13:22.106Z",
+    "duration": 9
   },
   "tests": [],
   "pending": [],
